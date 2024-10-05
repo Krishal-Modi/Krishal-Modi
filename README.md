@@ -92,9 +92,8 @@ Full-Stack Django Developer passionate about AI and Machine Learning, focused on
 
 ----
 <br>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=krishal-modi&show_icons=true&theme=dracula" alt="Krishal Modi's GitHub Stats" />
-  <br>
-  <img style="margin-left:150px; " src="https://github-readme-streak-stats.herokuapp.com/?user=krishal-modi&theme=dracula" alt="Krishal Modi's Streak Stats" />
+  <img style="margin-left:150px;" src="https://github-readme-streak-stats.herokuapp.com/?user=krishal-modi&theme=dracula" alt="Krishal Modi's Streak Stats" />
 </p>
 

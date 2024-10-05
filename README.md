@@ -77,8 +77,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishal-modi&theme=dracula" alt="Krishal Modi's Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=krishal-modi&theme=dracula" alt="Krishal Modi's Activity Graph" />
-</p>
-
----

@@ -1,17 +1,15 @@
 # Hi! 👋 My name is Krishal Modi
-
-**Full-Stack Django Developer** passionate about AI and Machine Learning, focused on building intelligent, scalable solutions by integrating Django with advanced AIML technologies.
+<br>
+Full-Stack Django Developer passionate about AI and Machine Learning, focused on building intelligent, scalable solutions by integrating Django with advanced AIML technologies.
+<br>
+<br>
 
 - 🌍  I'm based in India
 - ✉️  You can contact me at [krishalmodi2345@gmail.com](mailto:krishalmodi2345@gmail.com)
 - ⚡  I’m currently open for an Intern
+
 <br>
-<br>
-<a href="https://www.github.com/krishal-modi" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/krishal-modi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-<br>
-<br>
+
 ### Programming Languages
 
 <p align="center">
@@ -92,8 +90,8 @@
 
 <br>
 
----
-
+----
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishal-modi&show_icons=true&theme=dracula" alt="Krishal Modi's GitHub Stats" />
   <img style="margin-left:150px; " src="https://github-readme-streak-stats.herokuapp.com/?user=krishal-modi&theme=dracula" alt="Krishal Modi's Streak Stats" />

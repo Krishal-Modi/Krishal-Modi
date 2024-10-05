@@ -1,4 +1,4 @@
-# Hi! 👋 My name is Krishal Modi
+# Hi! 👋 I'm Krishal Modi
 <br>
 Full-Stack Django Developer passionate about AI and Machine Learning, focused on building intelligent, scalable solutions by integrating Django with advanced AIML technologies.
 <br>

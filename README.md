@@ -102,6 +102,6 @@ Full-Stack Django Developer passionate about AI and Machine Learning, focused on
 </p>
 <br>
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishal-modi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=FF79C6&icon_color=BD93F9&text_color=F8F8F2&bg_color=282A36" width="375" alt="Krishal Modi's top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishal-modi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=Yellow&icon_color=BD93F9&text_color=F8F8F2&bg_color=282A36" width="375" alt="Krishal Modi's top languages" />
 </p>
 <br>

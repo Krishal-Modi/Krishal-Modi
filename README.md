@@ -25,7 +25,7 @@ Full-Stack Django Developer passionate about AI and Machine Learning, focused on
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
   </a>
 </p>
 

@@ -15,7 +15,7 @@ Full-Stack Django Developer passionate about AI and Machine Learning, focused on
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,xml" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" />
   </a>
 </p>
 
@@ -75,7 +75,7 @@ Full-Stack Django Developer passionate about AI and Machine Learning, focused on
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,tailwind,express" />
+    <img src="https://skillicons.dev/icons?i=django,spring,tailwind,express" />
   </a>
 </p>
 

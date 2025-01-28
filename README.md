@@ -35,7 +35,7 @@ Full-Stack Django Developer passionate about AI and Machine Learning, focused on
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postman" />
+    <img src="https://skillicons.dev/icons?i=django,spring,nodejs" />
   </a>
 </p>
 
@@ -45,7 +45,7 @@ Full-Stack Django Developer passionate about AI and Machine Learning, focused on
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
   </a>
 </p>
 

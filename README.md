@@ -41,16 +41,6 @@ Full-Stack Django Developer passionate about AI and Machine Learning, focused on
 
 <br>
 
-### AI/ML
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,pytorch" />
-  </a>
-</p>
-
-<br>
-
 ### Database
 
 <p align="center">

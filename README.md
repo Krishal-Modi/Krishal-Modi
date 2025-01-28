@@ -35,7 +35,7 @@ Full-Stack Django Developer passionate about AI and Machine Learning, focused on
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,spring,nodejs" />
+    <img src="https://skillicons.dev/icons?i=django,spring,nodejs,express,maven,hibernate" />
   </a>
 </p>
 
@@ -55,17 +55,17 @@ Full-Stack Django Developer passionate about AI and Machine Learning, focused on
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,bash,vercel" />
+    <img src="https://skillicons.dev/icons?i=docker,vercel,postman" />
   </a>
 </p>
 
 <br>
 
-### Frameworks
+### Command Line
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,spring,tailwind,express" />
+    <img src="https://skillicons.dev/icons?i=bash,powershell,git" />
   </a>
 </p>
 
@@ -75,7 +75,7 @@ Full-Stack Django Developer passionate about AI and Machine Learning, focused on
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,idea" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,idea,anaconda" />
   </a>
 </p>
 
@@ -85,7 +85,7 @@ Full-Stack Django Developer passionate about AI and Machine Learning, focused on
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,kali" />
+    <img src="https://skillicons.dev/icons?i=github,kali" />
   </a>
 </p>
 

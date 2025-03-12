@@ -55,7 +55,7 @@ Full-Stack Django Developer passionate about AI and Machine Learning, focused on
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,vercel,postman,github" />
+    <img src="https://skillicons.dev/icons?i=docker,vercel,github" />
   </a>
 </p>
 
@@ -75,7 +75,7 @@ Full-Stack Django Developer passionate about AI and Machine Learning, focused on
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,idea,anaconda" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,eclipse,idea,anaconda" />
   </a>
 </p>
 

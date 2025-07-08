@@ -7,7 +7,7 @@ Full-Stack Django Developer passionate about AI and Machine Learning, focused on
 - 🌍  I'm based in India
 - ✉️  You can contact me at [krishalmodi2345@gmail.com](mailto:krishalmodi2345@gmail.com)
 - ⚡  I’m currently an Intern
-- 🌱 I’m currently learning Java (Spring Boot), Postgres, MongoDb 
+- 🌱 I’m currently learning Java (Spring Boot), Postgres, MongoDb and DSA 
 
 <br>
 
